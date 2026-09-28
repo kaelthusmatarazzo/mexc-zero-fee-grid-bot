@@ -1,0 +1,13 @@
+{
+  "name": "mexc-zero-fee-adaptive-grid-bot",
+  "version": "2.0.0",
+  "description": "MEXC Spot V3 Zero-Fee (0% Maker) Adaptive Grid & Smart DCA Bot with Paper Trading Demo & Render 24/7 Host",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node demo_test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
